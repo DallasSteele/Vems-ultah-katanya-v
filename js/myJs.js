@@ -2,7 +2,7 @@ const textConfig = {
   text1: "Helloowwww vems!",
   text2: "Yhaaaaa gitu deh, tebak aja ini hari apa....",
   text3: "Sorry kk gbisa ngajak maen kmn gtu :v <br> tapi smoga aja tadi dah heppi2 <br> ._.",
-  text4: "Kk usahain semester depan ga magang biar sering2 main, tapi vemi bersedia ga kalo nanti jadinya sering keluar?",
+  text4: "Kk usahain semester depan ga magang biar sering2 main, tapi bisa ga kluar sering2?",
   text5: "Ga...aku dah muak ama kk",
   text6: "Bersedia demi kk dong ;D",
   text7: "Hepibidi say, pas bngt ini waktu ultah vemmiii <br> jangan lupa tinggalin pesan buat kk :)",
